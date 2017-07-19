@@ -7,6 +7,8 @@ body {
   height: 95%;
   width: 100%;
   font-family: sans-serif;
+  color: #00f;
+  background-color: #000;
 }
 
 .main-container {
